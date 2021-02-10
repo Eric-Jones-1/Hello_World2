@@ -15,6 +15,12 @@
 
 ## Task list
 
+- [x] Create GitHub account
+- [x] Create a sample repository
+- [x] Upload your picture and complete your file
+- [x] Create a sample README.md file
+- [ ] Log inot LinkedIN Learning using HawkID
+- [ ] WAtch the LinkedIN learning session called GitHub for Data Scientists
 
 Hello_World/
 
