@@ -2,7 +2,7 @@
 
 Hi there,
 
-I'm Eric Jones I am a Junior Studying BAIS at the Univeristy of Iowa
+I'm Eric Jones I am a Junior Studying BAIS at the Univeristy of Iowa.
 
 ### Table of Contents
 
@@ -19,13 +19,7 @@ I'm Eric Jones I am a Junior Studying BAIS at the Univeristy of Iowa
 
 ### Description
 
-How to run program:
-
-Hello_World2/
-
-
-
-'''
+Hello_World2/ is my public repository for anyone to see
 
 ### Task list
 
@@ -37,7 +31,3 @@ Hello_World2/
 - [ ] Watch the LinkedIN learning session called GitHub for Data Scientists
 - [ ] Complete Learning GitHub Course and Earn Certificate
 - [ ] Complete GitHub Assignment
-
-Hello_World/
-
-
