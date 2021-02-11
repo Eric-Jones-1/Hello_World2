@@ -1,3 +1,9 @@
+#Hello_World2
+
+Hi there,
+
+I'm Eric Jones I am a Junior Studying BAIS at the Univeristy of Iowa
+
 ### Table of Contents
 
 - [PROJECT TITLE](#Project-Title)
@@ -35,8 +41,3 @@ Hello_World2/
 Hello_World/
 
 
-# Hello_World2
-
-Hi there!
-
-Eric Jones here, I like volleyball and doing things with my friends. 
