@@ -1,4 +1,4 @@
-## Table of Contents
+### Table of Contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -7,13 +7,11 @@
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
 - [TASK LIST](#Task-List)
 
-
-#Project Title
-## Project TItle
+### Project TItle
 
 *Hello World2*
 
-## Description
+### Description
 
 How to run program:
 '''
@@ -22,7 +20,7 @@ Hello_World2
 
 '''
 
-## Task list
+### Task list
 
 - [x] Create GitHub account
 - [x] Create a sample repository
