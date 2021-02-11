@@ -2,16 +2,25 @@
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [Files USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
 - [TASK LIST](#Task-List)
-- [
 
 
+#Project Title
 ## Project TItle
 
-*Hello World*
+*Hello World2*
 
 ## Description
 
+How to run program:
+'''
+Hello_World2
+
+
+'''
 
 ## Task list
 
@@ -20,13 +29,15 @@
 - [x] Upload your picture and complete your file
 - [x] Create a sample README.md file
 - [ ] Log inot LinkedIN Learning using HawkID
-- [ ] WAtch the LinkedIN learning session called GitHub for Data Scientists
+- [ ] Watch the LinkedIN learning session called GitHub for Data Scientists
+- [ ] Complete Learning GitHub Course and Earn Certificate
+- [ ] Complete GitHub Assignment
 
 Hello_World/
 
 
 # Hello_World2
-Initialize this repository with README
+
 Hi there!
 
 Eric Jones here, I like volleyball and doing things with my friends. 
